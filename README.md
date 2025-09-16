@@ -17,4 +17,9 @@
   1) SPEED = LENGTH / TIME
 4. Вывести результат с подстановкой всех значений в текст.
 5. Конец
-6. <img width="1471" height="459" alt="image" src="https://github.com/user-attachments/assets/d29761c1-78bd-4030-9d84-27cc803e8df6" />
+
+Схема
+<img width="98" height="301" alt="image" src="https://github.com/user-attachments/assets/e2c79a8a-d249-4794-9473-4581bcecc894" />
+
+Вывод в консоли
+<img width="1471" height="459" alt="image" src="https://github.com/user-attachments/assets/d29761c1-78bd-4030-9d84-27cc803e8df6" />
